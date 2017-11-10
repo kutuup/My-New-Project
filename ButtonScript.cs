@@ -14,8 +14,7 @@ public class ButtonScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		THIS LINE WILL BREAK THE CODE;
-		AND THIS ONE;  srfgafgfd ga grdfvz 
+		
 	}
 
     public void OnMouseButtonUp()
